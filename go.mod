@@ -4,4 +4,4 @@ go 1.15
 
 //replace github.com/danyelmorales/weakcipher => ../weakcipher
 
-require github.com/danyelmorales/weak_encryption_lib v1.0.1 // indirect
+require github.com/danyelmorales/weak_encryption_lib v1.0.2
